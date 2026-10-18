@@ -1,0 +1,192 @@
+[
+  {
+    "category": "Programming & Web Development",
+    "skills": [
+      {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+      },
+      {
+        "name": "JavaScript (ES6+)",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+      },
+      {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+      },
+      {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+      },
+      {
+        "name": "React.js",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+      },
+      {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+      },
+      {
+        "name": "Express.js",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+      },
+      {
+        "name": "REST APIs",
+        "fa": "fas fa-plug"
+      }
+    ]
+  },
+  {
+    "category": "Databases & Analytics",
+    "skills": [
+      {
+        "name": "SQL",
+        "fa": "fas fa-database"
+      },
+      {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+      },
+      {
+        "name": "Snowflake",
+        "fa": "fas fa-snowflake"
+      },
+      {
+        "name": "Power BI",
+        "fa": "fas fa-chart-bar"
+      },
+      {
+        "name": "Data Modelling",
+        "fa": "fas fa-project-diagram"
+      },
+      {
+        "name": "Data Management and Accuracy",
+        "fa": "fas fa-check-double"
+      }
+    ]
+  },
+  {
+    "category": "AI Technologies",
+    "skills": [
+      {
+        "name": "LLM API Integration",
+        "fa": "fas fa-microchip"
+      },
+      {
+        "name": "Prompt Engineering",
+        "fa": "fas fa-terminal"
+      },
+      {
+        "name": "AI Applications",
+        "fa": "fas fa-robot"
+      },
+      {
+        "name": "RAG Concepts",
+        "fa": "fas fa-search"
+      }
+    ]
+  },
+  {
+    "category": "ServiceNow",
+    "skills": [
+      {
+        "name": "ServiceNow Administration",
+        "fa": "fas fa-user-cog"
+      },
+      {
+        "name": "Flow Designer",
+        "fa": "fas fa-sitemap"
+      },
+      {
+        "name": "Workflow Automation",
+        "fa": "fas fa-cogs"
+      },
+      {
+        "name": "Automated Test Framework (ATF)",
+        "fa": "fas fa-vial"
+      }
+    ]
+  },
+  {
+    "category": "Tools & Practices",
+    "skills": [
+      {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+      },
+      {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+      },
+      {
+        "name": "Postman",
+        "fa": "fas fa-paper-plane"
+      },
+      {
+        "name": "VS Code",
+        "fa": "fas fa-code"
+      },
+      {
+        "name": "SDLC",
+        "fa": "fas fa-sync-alt"
+      },
+      {
+        "name": "Agile/Scrum",
+        "fa": "fas fa-tasks"
+      },
+      {
+        "name": "Debugging",
+        "fa": "fas fa-bug"
+      },
+      {
+        "name": "Problem Solving",
+        "fa": "fas fa-lightbulb"
+      },
+      {
+        "name": "Team Collaboration",
+        "fa": "fas fa-users"
+      },
+      {
+        "name": "Requirement Analysis",
+        "fa": "fas fa-clipboard-list"
+      }
+    ]
+  },
+  {
+    "category": "Additional Competencies",
+    "skills": [
+      {
+        "name": "WordPress CMS",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+      },
+      {
+        "name": "Microsoft Office (Basic Working Knowledge)",
+        "fa": "fas fa-file-word"
+      },
+      {
+        "name": "Documentation and Reporting",
+        "fa": "fas fa-file-alt"
+      },
+      {
+        "name": "Stakeholder Communication",
+        "fa": "fas fa-comments"
+      },
+      {
+        "name": "Workflow Management",
+        "fa": "fas fa-stream"
+      },
+      {
+        "name": "Issue Tracking and Resolution",
+        "fa": "fas fa-ticket-alt"
+      },
+      {
+        "name": "Process Improvement",
+        "fa": "fas fa-chart-line"
+      }
+    ]
+  }
+]

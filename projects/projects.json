@@ -1,0 +1,48 @@
+[
+  {
+    "name": "COVID-19 Global Analytics Dashboard",
+    "type": "Individual Project",
+    "tech": "Snowflake · SQL · Power BI · Data Modelling",
+    "desc": "Explored global COVID-19 trends across countries and time periods. Used SQL to clean and shape data from Snowflake, and Power BI for interactive visuals of cases, recoveries and fatalities.",
+    "image": "covid19dashboard",
+    "category": "individual",
+    "links": {},
+    "position": "top"
+  },
+  {
+    "name": "AI Career Mentor",
+    "type": "Individual Project",
+    "tech": "React.js · Gemini/OpenAI LLM APIs · Prompt Engineering · REST APIs",
+    "desc": "AI-powered career guidance web app offering personalized career roadmaps, skill-gap analysis and interview preparation, with LLM APIs integrated through REST endpoints.",
+    "image": "aicareermentor",
+    "category": "individual",
+    "links": {}
+  },
+  {
+    "name": "RentEasy - Property & Rental Management System",
+    "type": "Team Project",
+    "tech": "React.js · Node.js · Express.js · MongoDB · SQL Concepts · Git",
+    "desc": "Contributed to frontend and backend development of a rental management app with role-based dashboards for tenants, landlords and agents.",
+    "image": "renteasy",
+    "category": "team",
+    "links": {}
+  },
+  {
+    "name": "CryptoVault 3D",
+    "type": "Team Project",
+    "tech": "React.js · Three.js · WebGL · JavaScript · Node.js · CoinGecko API",
+    "desc": "Interactive 3D web application that visualizes real-time cryptocurrency data using immersive 3D graphics, modern UI/UX and smooth animations.",
+    "image": "cryptovault3d",
+    "category": "team",
+    "links": {}
+  },
+  {
+    "name": "Medical Recruitment Business Website",
+    "type": "Professional Project",
+    "tech": "WordPress CMS",
+    "desc": "Delivered a production-ready healthcare recruitment website with customized layouts and themes and recruitment inquiry forms.",
+    "image": "medicalrecruitment",
+    "category": "professional",
+    "links": {}
+  }
+]
